@@ -1,3 +1,3 @@
-module github.com/codemodify/systemkit-clicmdflags
+module github.com/remoteit/systemkit-clicmdflags
 
 go 1.13

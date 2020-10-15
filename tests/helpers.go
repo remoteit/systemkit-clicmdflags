@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	clicmdflags "github.com/codemodify/systemkit-clicmdflags"
+	clicmdflags "github.com/remoteit/systemkit-clicmdflags"
 )
 
 // ~~~~ root ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~ ~~~~

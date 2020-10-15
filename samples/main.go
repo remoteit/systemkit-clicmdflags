@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/codemodify/systemkit-clicmdflags/samples/cmdflags"
+	"github.com/remoteit/systemkit-clicmdflags/samples/cmdflags"
 )
 
 func main() {

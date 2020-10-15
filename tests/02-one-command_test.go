@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	clicmdflags "github.com/codemodify/systemkit-clicmdflags"
+	clicmdflags "github.com/remoteit/systemkit-clicmdflags"
 )
 
 func Test02_OneCommand(t *testing.T) {
